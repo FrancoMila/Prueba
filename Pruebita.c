@@ -11,6 +11,7 @@ int main (void) {
 	printf("hola que tal");
 	gets (buffer);
 	printf("Contenido: %s", buffer);
+	getchar();	
 	printf("Mira como te lo cambio gil");
 	return 0;
 }
