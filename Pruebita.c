@@ -8,6 +8,7 @@
 
 int main (void) {
 	printf("hola que tal");
+	getchar();
 	printf("Mira como te lo cambio gil");
 	return 0;
 }
