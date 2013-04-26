@@ -8,10 +8,11 @@
 
 int main (void) {
 	char buffer[80];
-	printf("hola que tal");
+	printf("hola que tal\n");
 	gets (buffer);
-	printf("Contenido: %s", buffer);
+	printf("Contenido: %s\n", buffer);
 	getchar();	
-	printf("Mira como te lo cambio gil");
+	printf("POPOTITO\n");
+	printf("Mira como te lo cambio gil\n");
 	return 0;
 }
